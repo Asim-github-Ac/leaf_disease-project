@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Leaf detection</string>
+    <string name="analyze">Detection</string>
+    <string name="type"> Disease\nDetail </string>
+    <string name="about">About Us</string>
+    <string name="help">Help</string>
+    <string name="leaf">Leaf Disease Detection</string>
+    <string name="txt"><b>GC WOMEN UNIVERSITY FAISALABAD</b></string>
+    <string name="txt1"><b>Department:</b></string>
+    <string name="txt2">Computer Science</string>
+    <string name="txt3"><b>Regards:</b></string>
+    <string name="txt4">Mrs. Saher Hussain And Parents</string>
+    <string name="txt5"><b>Students Name:</b></string>
+    <string name="txt6">Muqadas Mubeen </string>
+    <string name="txt7"><b>Registration No:</b> </string>
+    <string name="txt8">2016-GCWUF-0330</string>
+    <string name="app">Leaf Disease Detection </string>
+    <string name="andriod">Version 1.0.1    </string>
+    <string name="moded">Moded by:</string>
+    <string name="txt9">Andriod App</string>
+    <string name="text">Take Photo</string>
+    <string name="appinfo">App Info</string>
+    <string name="text1">Select From Gallary</string>
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+</resources>

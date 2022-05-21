@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.1325" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_about.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_analyze.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_app.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_contect.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_help.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_history.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_mainpage.xml" value="0.33" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_result.xml" value="0.22" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_save_ddata.xml" value="0.22" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_splash.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/activity_wait.xml" value="0.121875" />
+        <entry key="..\:/Users/Asim Mehar/Pictures/Leafdetection/app/src/main/res/layout/saved_data.xml" value="0.18" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1565" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/drawable/cardback.xml" value="0.1565" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1565" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/drawable/rounded_button.xml" value="0.1565" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_about.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_analyze.xml" value="0.25" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_app.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_contect.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_help.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_history.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_mainpage.xml" value="0.25" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_result.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_splash.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/layout/activity_wait.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Star/Downloads/Leafdetection 2/Leafdetection/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1565" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.12395833333333334" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.12395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
